@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cut deadwood
+* source:	https://sketchfab.com/3d-models/cut-deadwood-f0c69092cc4d4f1d9c88738258dcbf3e
+* author:	Lassi Kaukonen (https://sketchfab.com/thesidekick)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cut deadwood" (https://sketchfab.com/3d-models/cut-deadwood-f0c69092cc4d4f1d9c88738258dcbf3e) by Lassi Kaukonen (https://sketchfab.com/thesidekick) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	SouthWestRocks2
+* source:	https://sketchfab.com/3d-models/southwestrocks2-548f017da37f4d50b6b4e4ba7f87a105
+* author:	AusGeol.org (https://sketchfab.com/AusGeol)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SouthWestRocks2" (https://sketchfab.com/3d-models/southwestrocks2-548f017da37f4d50b6b4e4ba7f87a105) by AusGeol.org (https://sketchfab.com/AusGeol) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

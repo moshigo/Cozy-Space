@@ -1,0 +1,11 @@
+Model Information:
+* title:	Day 18 - Chemical toilet
+* source:	https://sketchfab.com/3d-models/day-18-chemical-toilet-d407c7c58b014c749c5997104dfb7dbf
+* author:	smallfly (https://sketchfab.com/smallfly)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Day 18 - Chemical toilet" (https://sketchfab.com/3d-models/day-18-chemical-toilet-d407c7c58b014c749c5997104dfb7dbf) by smallfly (https://sketchfab.com/smallfly) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

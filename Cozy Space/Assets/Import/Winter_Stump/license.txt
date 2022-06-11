@@ -1,0 +1,11 @@
+Model Information:
+* title:	Winter Stump
+* source:	https://sketchfab.com/3d-models/winter-stump-77e29ad51f0c4c5a9c582f1a6c54bcb5
+* author:	Red (https://sketchfab.com/jperickson.ndcr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Winter Stump" (https://sketchfab.com/3d-models/winter-stump-77e29ad51f0c4c5a9c582f1a6c54bcb5) by Red (https://sketchfab.com/jperickson.ndcr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

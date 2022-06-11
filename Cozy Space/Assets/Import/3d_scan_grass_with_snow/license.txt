@@ -1,0 +1,11 @@
+Model Information:
+* title:	3d scan grass with snow
+* source:	https://sketchfab.com/3d-models/3d-scan-grass-with-snow-1ccffb343f174056ae1ee92ca92a7334
+* author:	riccardogiorato (https://sketchfab.com/riccardogiorato)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "3d scan grass with snow" (https://sketchfab.com/3d-models/3d-scan-grass-with-snow-1ccffb343f174056ae1ee92ca92a7334) by riccardogiorato (https://sketchfab.com/riccardogiorato) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
